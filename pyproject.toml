@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "hmm-for-hdd-failure"
+version = "0.1.0"
+description = "Analyzing HDD Failures Using Hidden Markov Models"
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+numpy = "^1.26.1"
+pandas = "^2.1.1"
+matplotlib = "^3.8.0"
+scikit-learn = "^1.3.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
