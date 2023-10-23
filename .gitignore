@@ -1,3 +1,5 @@
 input/
 .ipynb_checkpoints/
 *.csv
+HMM-for-HDD-Failure/src/input/
+HMM-for-HDD-Failure/src/.ipynb_checkpoints/
