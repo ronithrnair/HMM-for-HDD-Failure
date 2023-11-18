@@ -2,8 +2,8 @@
 
 Hard Disk Drives (HDDs) serve as primary non-volatile storage in computers, making it crucial in various devices, including servers and laptops, with applications including data storage, file organization, data backup, and virtual memory use. Since HDDs play a critical role in the efficiency of many large-scale commercial systems, failure detection using efficient models becomes an essential task.
 
-##Implementation
-
+## Implementation
+![Model_Pipeline](https://github.com/ronithrnair/HMM-for-HDD-Failure/assets/100126824/e0dae762-87f1-4b36-8d2e-d103731f78f4)
 
 ## Setup
 - Use `poetry` :
