@@ -3,6 +3,7 @@
 Hard Disk Drives (HDDs) are critical components in computer systems, serving as primary non-volatile storage. Detecting potential failures in HDDs is crucial for maintaining the efficiency of various devices, including servers and laptops. This project implements a Hidden Markov Model (HMM) for the detection of HDD failures using the Backblaze dataset, which contains daily snapshots of SMART data for each operational hard drive.
 
 ## Implementation
+![Model_Pipeline](https://github.com/ronithrnair/HMM-for-HDD-Failure/assets/100126824/e0dae762-87f1-4b36-8d2e-d103731f78f4)
 
 ### Preprocessing
 
